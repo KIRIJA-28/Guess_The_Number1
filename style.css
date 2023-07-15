@@ -1,0 +1,35 @@
+body{
+    background:hotpink;
+}
+#box{
+    width:600px;
+    background:whitesmoke;
+    border:7px solid black;
+    box-shadow: black;
+     margin:auto;
+    padding:5%;
+    margin-top:7%;
+
+}
+h1{
+    color: red;
+}
+h2{
+    color:violet;
+}
+h3{
+    color:orangered;
+}
+#num{
+    color:gold;
+}
+#result{
+    background:black;
+    height:25px;
+    width:fit-content;
+    margin:auto;
+    margin-top:25px;
+    color:blue;
+    font-size:large;
+
+}
